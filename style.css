@@ -19,3 +19,54 @@
     border-radius: 8px;
     cursor: pointer;
 }
+.cate-1, .cate-2, .cate-3 {
+    padding: 5px 20px;
+    border-radius: 10px;
+
+}
+.cate-1 {
+    background-image: linear-gradient(-45deg, #FFD019,#FF9C35);
+
+}
+.cate-2 {
+    background-image: linear-gradient(180deg, #FF589B, #FF136F);
+
+}
+.cate-3 {
+    background-image: linear-gradient(-45deg, #4289FF,#3F07F8);
+
+}
+.categories h1 {
+    color: white;
+}
+.categories img {
+    width: 110px;
+
+}
+.card {
+    border: none;
+    box-shadow: 5px 8px 12px lightgray;
+    padding: 10px 5px;
+    border-radius: 10px;
+}
+h5 {
+    margin-bottom: 20px;
+    
+}
+.card-footer {
+    background-color: white;
+    border-top: none;
+}
+#subscribe {
+    height: 300px;
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+#subscribe p {
+    color: grey;
+}
+footer {
+    text-align: center;
+    padding-bottom: 20px;
+
+}
